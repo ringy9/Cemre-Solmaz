@@ -1,0 +1,54 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "1dafad855ff002cf",
+            "max_int": "cfa94439d3e82dd7",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Cemre Solmaz",
+            "photo": "https://i.postimg.cc/bwt2Vrmy/7bb851c15520909de925f75b29cf4703.jpg",
+            "voice": "https://ringy9.github.io/-VladA4jison/vid9.mp4",
+            "video": "https://ringy9.github.io/Cemre-Solmaz/vidio1.mp4",
+            "stories": [
+                "https://i.postimg.cc/2y9BMZp6/100866ab83ebc4f28bf2cb39415aa7f2.jpg",
+"https://i.postimg.cc/m2qHSCNp/20fd32ed14bd8856ee202815a5ca95ff.jpg",
+"https://i.postimg.cc/pTx8FvY2/566189cb3f44f3fb6206ecfd9035d10f.jpg",
+"https://i.postimg.cc/W1B0sgdq/5e0272a74cb4a25d7130317b687e3b02.jpg",
+"https://i.postimg.cc/DymGsBsb/60704069ff0290a6718cc275f246eb57.jpg",
+"https://i.postimg.cc/bwt2Vrmy/7bb851c15520909de925f75b29cf4703.jpg",
+"https://i.postimg.cc/0jywVCBF/973592eadbf7fe34067fcff22aecad72.jpg",
+"https://i.postimg.cc/Zq6pnnN7/9a7d8cf2b5776da1e1dbef156edee8dc.jpg",
+"https://i.postimg.cc/d1BCRf4G/a30051243eaa21a33cb4e0ee84bf3fd1.jpg",
+"https://i.postimg.cc/jqMNLGWb/DJD27-Ef-Ws-AIPu04.jpg",
+"https://i.postimg.cc/CKpn302j/unnamed.jpg",
+"https://i.postimg.cc/MG0fx4kg/wp8618827.jpg",
+"https://i.postimg.cc/ZRTBqc4n/wp8618849.webp"
+            ],
+            "wallpapers": [
+               "https://i.postimg.cc/2y9BMZp6/100866ab83ebc4f28bf2cb39415aa7f2.jpg",
+"https://i.postimg.cc/m2qHSCNp/20fd32ed14bd8856ee202815a5ca95ff.jpg",
+"https://i.postimg.cc/pTx8FvY2/566189cb3f44f3fb6206ecfd9035d10f.jpg",
+"https://i.postimg.cc/W1B0sgdq/5e0272a74cb4a25d7130317b687e3b02.jpg",
+"https://i.postimg.cc/DymGsBsb/60704069ff0290a6718cc275f246eb57.jpg",
+"https://i.postimg.cc/bwt2Vrmy/7bb851c15520909de925f75b29cf4703.jpg",
+"https://i.postimg.cc/0jywVCBF/973592eadbf7fe34067fcff22aecad72.jpg",
+"https://i.postimg.cc/Zq6pnnN7/9a7d8cf2b5776da1e1dbef156edee8dc.jpg",
+"https://i.postimg.cc/d1BCRf4G/a30051243eaa21a33cb4e0ee84bf3fd1.jpg",
+"https://i.postimg.cc/jqMNLGWb/DJD27-Ef-Ws-AIPu04.jpg",
+"https://i.postimg.cc/CKpn302j/unnamed.jpg",
+"https://i.postimg.cc/MG0fx4kg/wp8618827.jpg",
+"https://i.postimg.cc/ZRTBqc4n/wp8618849.webp"
+            ]
+          
+        }
+    ]
+}
