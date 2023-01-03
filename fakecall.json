@@ -2,10 +2,10 @@
     "data" : [
         {
           
-            "network": "is",
+            "network": "max",
             
-            "max_ban": "1dafad855ff002cf",
-            "max_int": "cfa94439d3e82dd7",
+            "max_ban": "51605b8165c4ff9f",
+            "max_int": "0021e6529d0ba453",
             
             "is_app_key": "154b0d031",
             "is_ban": "DefaultBanner",
